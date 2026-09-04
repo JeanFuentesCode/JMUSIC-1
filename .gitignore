@@ -1,0 +1,12 @@
+# Ignorar dependencias (en la raíz o subcarpetas)
+**/node_modules/
+
+# Archivos de producción y compilación
+**/dist/
+**/build/
+
+# Archivos temporales y del sistema
+.DS_Store
+*.log
+*~
+*.swp
